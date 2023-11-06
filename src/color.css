@@ -1,0 +1,28 @@
+.color-picker {
+  text-align: center;
+  margin-top: 200px;
+  background-color: lightpink;
+  margin-left: 300px;
+  margin-right: 300px;
+  height: 300px;
+}
+
+.color-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-top: 10px;
+}
+
+.color-square {
+  width: 30px;
+  height: 30px;
+  margin: 5px;
+  cursor: pointer;
+}
+
+button {
+  margin-bottom: 10px;
+  background-color: rgb(79, 222, 79);
+  
+}
